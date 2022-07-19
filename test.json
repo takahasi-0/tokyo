@@ -1,6 +1,6 @@
 {
     "test": "test1",
-    "test2": "test2",
+    "test2": [1,2,3],
     "test3": 1,
     "test4": 5,
     "test5": 6
