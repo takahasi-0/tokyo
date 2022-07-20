@@ -1,9 +1,4 @@
 {
-    "test": "test1",
-    "test2": [1,2,3],
-    "test3": 1,
-    "test4": 5,
-    "test5": 6,
-    "test6": 6,
-    "test7": 6
+    "test": 0,
+    "test2": 1
 }
